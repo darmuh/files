@@ -1,6 +1,6 @@
 # darmuhsTerminalStuff
 
-##List of Commands (current version):
+## List of Commands (current version):
  -Lobby Name (lobby, name, lobby name)
   
  -Quit (quit)
@@ -30,12 +30,6 @@
  -Modlist (modlist)
  
  -Kick (kick <playername>) *Must be host*
-
-
-**Planned command not yet implemented:
-
-
-
 
 # Change Log
 All notable changes to this project will be documented in this file.
